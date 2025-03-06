@@ -1,5 +1,4 @@
-Flask
-Flask-CORS
-requests
+flask
+numpy
 pandas
-gunicorn
+scikit-learn

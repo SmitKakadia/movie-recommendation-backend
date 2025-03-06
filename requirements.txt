@@ -2,5 +2,4 @@ Flask
 Flask-CORS
 requests
 pandas
-pickle5
 gunicorn
